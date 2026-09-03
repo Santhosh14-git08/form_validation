@@ -1,0 +1,23 @@
+body{
+    margin: 50px;
+    font-family: Arial, Helvetica, sans-serif ;
+    background-color: aqua;
+}
+
+.form-group{
+    margin: 15px;
+}
+
+input{
+    width: 100px;
+    padding: 10px;
+
+}
+.error{
+    color:brown;
+    font-size: 10px;
+}
+.sucess{
+    color: green;
+    font-size: 10px;
+}
